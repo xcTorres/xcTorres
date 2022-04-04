@@ -5,8 +5,9 @@
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-![Python](https://img.shields.io/badge/-Python-%23007ACC?style=flat-square&logo=python)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+- Python
+- C++
+- Java
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
