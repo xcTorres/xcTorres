@@ -5,7 +5,7 @@
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-%23E44D27?style=flat-square&logo=c++)
 ![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=java)
 
