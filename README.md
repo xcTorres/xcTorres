@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗬𝘂𝗻𝘄𝗲𝗶 𝗫𝗶𝗮𝗼
+# Hi 𝗜'𝗺 Xie Chong
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xctorres)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xctorres&url=https%3A%2F%2Fxctorres.github.io/)](https://xctorres.github.io/)
