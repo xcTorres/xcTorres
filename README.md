@@ -13,7 +13,7 @@ I like both engineering and machine-learning stuffs.
 
 ## Engineering
 - System Design  
-- Data Struture
+- Data Structure
 - Spark  
 - Database(Postgres, MySQL, Redis, Hive)
 
