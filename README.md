@@ -8,8 +8,8 @@ I like both engineering and machine-learning stuffs.
 - NLP
 - Recommendation  
 - Search System 
-- Reinforcement learning  
-- Computer vision  
+- Reinforcement Learning  
+- Computer Vision  
 
 ## Engineering
 - System Design  
