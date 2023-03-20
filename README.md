@@ -7,7 +7,8 @@ I like both engineering and machine-learning stuffs.
 ## Deep learning 
 - NLP
 - Recommendation  
-- Search System 
+- Search System
+- Community Detection
 - Reinforcement Learning  
 - Computer Vision  
 
